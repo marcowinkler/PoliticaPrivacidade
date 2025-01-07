@@ -1,3 +1,0 @@
-# Politica Privacidade
-
-# teste
