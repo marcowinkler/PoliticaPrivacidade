@@ -1,5 +1,7 @@
 <html>
-  <title>asdf</title>
+  <head>
+    <title>asdf</title>
+  </head>
   <body>
     <h2>fasdfasdfsadfdsasdfafds
   </body>
