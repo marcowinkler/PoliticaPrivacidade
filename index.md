@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -35,7 +36,7 @@
 <body>
     <h1>Política de Privacidade</h1>
     <p><strong>Última atualização:</strong> 07/01/2025</p>
-    <p>A Horfran Comercial Eletro Móveis respeita sua privacidade e se compromete a proteger os dados pessoais coletados por meio do aplicativo. Esta política de privacidade descreve como coletamos, usamos e protegemos as informações obtidas durante o uso do nosso aplicativo.</p>
+    <p>A Horfran Comercial Eletro Móveis, responsável pelo aplicativo, respeita sua privacidade e se compromete a proteger os dados pessoais coletados por meio do aplicativo. Esta política de privacidade descreve como coletamos, usamos e protegemos as informações obtidas durante o uso do nosso aplicativo.</p>
 
     <hr>
 
