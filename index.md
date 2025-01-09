@@ -34,7 +34,7 @@
 </head>
 <body>
     <h1>Política de Privacidade</h1>
-    <p><strong>Última atualização:</strong> 07/01/2025</p>
+    <p><strong>Última atualização:</strong> 09/01/2025</p>
     <p>A Horfran Comercial Eletro Móveis, desenvolvedora e responsável pelo aplicativo listado na Google Play, respeita sua privacidade e se compromete a proteger os dados pessoais coletados por meio do aplicativo. Esta política de privacidade descreve como coletamos, usamos e protegemos as informações obtidas durante o uso do nosso aplicativo.</p>
 
 
